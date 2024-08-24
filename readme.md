@@ -96,4 +96,4 @@ We welcome contributions! Please fork this repository and create a pull request 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ### Contact
-If you have any questions or need support, please contact us at support@studentassistant.com.
+If you have any questions or need support, please contact me at ranjan.ashish9992@gmail.com.
