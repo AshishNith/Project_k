@@ -1,0 +1,28 @@
+Landing Page / Welcome Page
+        App Name & Logo: Display prominently at the top.
+        Introduction Text: A brief description of the app and its features.
+        Sign In Button: Google Sign-In option.
+        Sign Up Button: Redirects to sign-up page (optional if using only Google sign-in).
+        Footer: Links to Privacy Policy, Terms of Service, and Contact Information. 
+
+Home Dashboard
+    Greeting: Personalized greeting (e.g., "Welcome back, [User Name]!").
+    Attendance Overview: Quick overview of attendance (e.g., percentage, missed classes).
+    Task Manager Overview: Upcoming deadlines and urgent tasks.
+    AI-Generated To-Do List: Tasks suggested by the AI for today.
+    Navigation Menu: Links to all other pages (Attendance, Tasks, To-Do, Settings).
+    Profile Picture & Settings Gear: Access to user settings.
+    log-Out button
+
+Attendance Tracker Page
+    Calendar View: A monthly calendar showing attendance for each day (e.g., green for present, red for absent).
+    Add Attendance: Button to manually add or edit attendance for a specific day.
+    Attendance Summary: Display statistics like total classes, attended classes, and attendance percentage.
+    Class List: Option to add, edit, or remove classes/courses.
+
+ Task Manager Page
+    Task List: A list of all tasks with deadlines and status (e.g., pending, completed).
+    Add Task Button: Button to add a new task with options for title, deadline, and priority.
+    Edit/Delete Task Options: Buttons to edit or delete tasks.
+    Filter & Sort: Options to filter tasks by deadline, priority, or status.
+    Deadline Reminders: Section showing upcoming deadlines
